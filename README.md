@@ -11,10 +11,10 @@ Seja bem-vindo ao meu GitHub :octocat:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/vdsmoreira">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=vdsmoreira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsmoreira&layout=compact&langs_count=7&theme=dracula"/>-->
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=vdsmoreira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsmoreira&layout=compact&langs_count=7&theme=cobalt"/> -->
 </div>
   
   <div style="display: inline_block"><br>
