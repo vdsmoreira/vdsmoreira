@@ -1,31 +1,29 @@
-## Olá, eu sou Victoria Moreira 🖖
-Seja bem-vindo ao meu GitHub :octocat:
+## Olá, eu sou Victoria Moreira [ela/dela]
+<!--Seja bem-vindo ao meu GitHub :octocat:-->
 
-- 👩🏾 Pronomes: Ela/dela
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-<div align="center">
+<div>
+<a href="https://www.instagram.com/vdsmoreira/">
+  <img align="left" alt="Victoria's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/victoria-s-moreira/">
+  <img align="left" alt="Victoria's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</div>
+<br>
+<div align="right">
   <a href="https://github.com/vdsmoreira">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=vdsmoreira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsmoreira&layout=compact&langs_count=7&theme=cobalt"/> -->
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vdsmoreira&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true""/>
+</div>
+<div align="left">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsmoreira&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true""/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HMTL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-  <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
- </div>
+  ### Stacks
+  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
   
   ##
 
